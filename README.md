@@ -3,4 +3,4 @@
 ### Completed a Serverless Data Engineering Pipline with the functionality of the NLP analysis: sentiment analysis and key phrase extraction
 
 Here is the diagram of the serverless AI data engineering pipline:
-![image](http://github.com/YummyPancake/awslambdaNLP/raw/master/images/serverless_structure.png)
+![image](https://github.com/YummyPancake/awslambdaNLP/blob/master/images/serverless_structure.png)
