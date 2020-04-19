@@ -4,3 +4,6 @@
 
 Here is the diagram of the serverless AI data engineering pipline:
 ![image](https://github.com/YummyPancake/awslambdaNLP/blob/master/images/serverless_structure.png)
+
+Demo video:
+https://www.youtube.com/watch?v=c7autUCSIR8
